@@ -1,0 +1,119 @@
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#home-section {
+  background-image: url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 950px;
+  padding-top: 2%;
+}
+div.container-div {
+  text-align: center;
+  padding-top: 175px;
+  font-style: bold;
+}
+.title {
+  font-size: 65px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.content {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  margin-bottom: 46px;
+  margin-top: -20px;
+}
+.button {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ff5959;
+  padding: 15px 20px;
+  border-radius: 7px;
+  font-weight: 600;
+  gap: 20px;
+}
+#donate-now-section {
+  width: 100%;
+  height: 850px;
+}
+.black-colored {
+  font-size: 55px;
+  color: #121212;
+}
+.gray-colored {
+  color: #707070;
+}
+.orange-colored{
+    color: #ff5959;
+    border: 2px solid #ff5959;
+    background-color: #ffe6e7;
+    
+}
+.money-list {
+  list-style: none;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  width: 110px;
+  height: 48px;
+  font-size: 30px;
+  font-weight: 700;
+  background-color: #f5f0f0;
+  padding: 28px 11px;
+  margin-right: 29px;
+  border-radius: 5px;
+}
+.place-holder {
+  display: block;
+  margin-bottom: 55px;
+  padding: 23px;
+  margin-left: 846px;
+  font-size: 18px;
+  border: none;
+  outline-width: 0;
+  margin-top: 30px;
+}
+.other-amount{
+    text-align: center;
+}
+hr {
+    margin-bottom: 30px;
+    margin-top: -57px;
+    margin-left: 562px;
+    width: 785px;
+}
+.one-third{
+    width: 50%;
+    margin: 5%;
+    font-size: 16px;
+    padding: 115px 21px 57px 24px;
+    font-family: "Poppins", sans-serif;
+    
+}
+.cards-container{
+    display: flex;
+    padding-left: 280px;
+    padding-right: 280px;
+    
+}
+.card-heading{
+    text-align: center;
+}
+.first-card{
+    background-color: #ebeff0;
+}
+.second-card{
+    background-color: #fbe6e6;
+}
+.third-card{
+    background-color: #fff1cd;
+}
+.main-heading{
+    color: black;
+}
