@@ -7,7 +7,7 @@ body {
   background-image: url(images/donation13.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 950px;
+  height: 765px;
   padding-top: 2%;
 }
 div.container-div {
@@ -16,7 +16,7 @@ div.container-div {
   font-style: bold;
 }
 .title {
-  font-size: 65px;
+  font-size: 45px;
   font-weight: 700;
   color: #ffffff;
 }
@@ -43,7 +43,7 @@ div.container-div {
   height: 850px;
 }
 .black-colored {
-  font-size: 55px;
+  font-size: 45px;
   color: #121212;
 }
 .gray-colored {
@@ -66,7 +66,7 @@ li {
   font-size: 30px;
   font-weight: 700;
   background-color: #f5f0f0;
-  padding: 28px 11px;
+  padding: 26px 3px;
   margin-right: 29px;
   border-radius: 5px;
 }
@@ -74,7 +74,7 @@ li {
   display: block;
   margin-bottom: 55px;
   padding: 23px;
-  margin-left: 846px;
+  margin-left: 658px;
   font-size: 18px;
   border: none;
   outline-width: 0;
@@ -86,13 +86,13 @@ li {
 hr {
     margin-bottom: 30px;
     margin-top: -57px;
-    margin-left: 562px;
+    margin-left: 375px;
     width: 785px;
 }
 .one-third{
     margin: 2%;
     font-size: 16px;
-    padding: 115px 21px 57px 24px;
+    padding: 55px 19px 46px 16px;
     font-family: "Poppins", sans-serif;
 }
 .cards-container{
