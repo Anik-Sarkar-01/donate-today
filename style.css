@@ -7,7 +7,7 @@ body {
   background-image: url(images/donation13.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 880px;
+  height: 950px;
   padding-top: 2%;
 }
 div.container-div {
@@ -55,7 +55,7 @@ div.container-div {
     background-color: #ffe6e7;
     
 }
-.money-list {
+#money-list {
   list-style: none;
   text-align: center;
 }
@@ -70,7 +70,7 @@ li {
   margin-right: 29px;
   border-radius: 5px;
 }
-.place-holder {
+#place-holder {
   display: block;
   margin-bottom: 55px;
   padding: 23px;
@@ -104,13 +104,13 @@ hr {
 .card-heading{
     text-align: center;
 }
-.first-card{
+#first-card{
     background-color: #ebeff0;
 }
-.second-card{
+#second-card{
     background-color: #fbe6e6;
 }
-.third-card{
+#third-card{
     background-color: #fff1cd;
 }
 .main-heading{
