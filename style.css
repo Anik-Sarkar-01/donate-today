@@ -86,8 +86,8 @@ li {
 hr {
     margin-bottom: 30px;
     margin-top: -57px;
-    margin-left: 375px;
-    width: 785px;
+    margin-left: 407px;
+    width: 719px;
 }
 .one-third{
     margin: 2%;
@@ -165,4 +165,32 @@ form{
     width: 85%;
     margin-left: 110px;
     margin-top: 35px
+}
+
+#donate-today-app{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 91px;
+    background-color: #ebeff0;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-top: 53px;
+    padding-bottom: 53px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px gray;
+}
+.half-part{
+    width: 50%;
+}
+img.app-image {
+    height: 500px;
+    padding-left: 20px;
+    padding-left: 182px;
+}
+img#qr-code {
+    height: 300px;
+}
+.half-part.donate-content {
+    margin-right: 138px;
 }
