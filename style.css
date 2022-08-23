@@ -89,12 +89,10 @@ hr {
     width: 785px;
 }
 .one-third{
-    width: 50%;
-    margin: 5%;
+    margin: 2%;
     font-size: 16px;
     padding: 115px 21px 57px 24px;
     font-family: "Poppins", sans-serif;
-    
 }
 .cards-container{
     display: flex;
@@ -116,4 +114,8 @@ hr {
 }
 .main-heading{
     color: black;
+}
+img.card-image{
+    height: 45px;
+    margin: -2px
 }
