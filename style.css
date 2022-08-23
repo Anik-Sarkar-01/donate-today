@@ -7,7 +7,7 @@ body {
   background-image: url(images/donation13.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 950px;
+  height: 760px;
   padding-top: 2%;
 }
 div.container-div {
@@ -74,7 +74,7 @@ li {
   display: block;
   margin-bottom: 55px;
   padding: 23px;
-  margin-left: 913px;
+  margin-left: 657px;
   font-size: 18px;
   border: none;
   outline-width: 0;
@@ -86,7 +86,7 @@ li {
 hr {
     margin-bottom: 30px;
     margin-top: -57px;
-    margin-left: 659px;
+    margin-left: 407;
     width: 719px;
 }
 .one-third{
