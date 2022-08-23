@@ -119,3 +119,17 @@ img.card-image{
     height: 45px;
     margin: -2px
 }
+#footer-section{
+    text-align: center;
+    background-color: #121212;
+    padding: 1px;
+}
+p.gray-colored {
+    font-size: 13px;
+}
+h1.footer-title{
+    color:#ff5959;
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    font-weight: 300;
+}
